@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Cheese",
+        "toppings": [
+            "mozzarella",
+            "parmesan",
+            "more cheese?"
+        ],
+        "place": "Pizza Hut",
+        "rating": "2",
+        "description": "A cheese pizza. what else can you say?",
+        "criticism": "I'm a bigger fan of toppings, so there's not much improvement to be made",
+        "crust": "normal",
+        "img": "images/cheese.jpg"
+    },
+    {
+        "name": "Pepperoni",
+        "toppings": [
+            "pepperoni",
+            "assorted cheeses"
+        ],
+        "place": "Dominos",
+        "rating": "3",
+        "description": "The classic pepperoni, easily enjoyable",
+        "criticism": "Can still be a bit plain, but usually more enjoyable than cheese alone",
+        "crust": "thin",
+        "img": "images/pepperoni.jpg"
+    },
+    {
+        "name": "Meat Lovers",
+        "toppings": [
+            "pepperoni",
+            "bacon",
+            "sausage",
+            "hamburger"
+        ],
+        "place": "Pizza Hut",
+        "rating": "2",
+        "description": "A lot of meat to give it plenty of flavor",
+        "criticism": "Too much meat honestly, needs variety",
+        "crust": "thin",
+        "img": "images/meat-lovers.jpg"
+    },
+    {
+        "name": "Supreme",
+        "toppings": [
+            "pepperoni",
+            "sausage",
+            "onions",
+            "olives",
+            "green peppers"
+        ],
+        "place": "Papa John's",
+        "rating": "4",
+        "description": "A bit of everything, has good topping variety",
+        "criticism": "Can sometimes be too much depending on other toppings",
+        "crust": "normal",
+        "img": "images/supreme.jpg"
+    },
+    {
+        "name": "Hawaiian",
+        "toppings": [
+            "pineapple",
+            "ham"
+        ],
+        "place": "Dominos",
+        "rating": "3",
+        "description": "Underrated pizza, hated by many. Much better than people give it credit",
+        "criticism": "I think pepperoni goes much better with pineapple than ham",
+        "crust": "normal",
+        "img": "images/hawaiian.jpg"
+    },
+    {
+        "name": "Barbecue Chicken",
+        "toppings": [
+            "chicken",
+            "onions",
+            "bbq sauce"
+        ],
+        "place": "Papa John's",
+        "rating": "5",
+        "description": "Strange combo that's really satisfying, niche pizza",
+        "criticism": "Sometimes the barbecue can be way too sweet in combination with the onions",
+        "crust": "thin",
+        "img": "images/bbq-chicken.jpg"
+    }
+]
